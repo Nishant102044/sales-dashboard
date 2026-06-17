@@ -79,7 +79,7 @@ The Sales Dashboard is an interactive business intelligence solution designed to
 
 ## Author
 
-**Nishant Kumar**
+**Nishant **
 
 GitHub Profile:
 https://github.com/Nishant102044# sales-dashboard
