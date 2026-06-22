@@ -1,5 +1,9 @@
 # Sales Dashboard
 
+
+<img width="1051" height="598" alt="project2" src="https://github.com/user-attachments/assets/c816b4c6-f0b3-4e82-82ca-bc5d0de4f969" />
+
+
 ## Project Overview
 
 The Sales Dashboard is an interactive business intelligence solution designed to monitor and analyze sales performance. It provides key insights into revenue, profit, customer trends, and product performance, helping organizations make informed business decisions through data visualization.
